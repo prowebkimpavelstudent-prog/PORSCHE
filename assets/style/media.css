@@ -39,8 +39,8 @@
   }
   .footer__content {
     flex-direction: column;
+    gap: 30px;
   }
-  
 }
 
 @media (max-width: 768px) {
