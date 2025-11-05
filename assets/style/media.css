@@ -27,7 +27,8 @@
   .content__left_title {
     font-size: 32px;
   }
-  .content__left_text {
+  .content__left_text,
+  .about__content p {
     font-size: 16px;
   }
   .content__left {
