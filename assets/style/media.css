@@ -37,6 +37,10 @@
   .gallery__content-top {
     flex-direction: column;
   }
+  .footer__content {
+    flex-direction: column;
+  }
+  
 }
 
 @media (max-width: 768px) {

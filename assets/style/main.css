@@ -200,7 +200,7 @@ ul {
 .footer__content {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 400px;
 }
 .footer__form {
   display: flex;
@@ -248,7 +248,6 @@ input::placeholder {
   display: flex;
   align-items: center;
   gap: 50px;
-  padding-left: 400px;
 }
 .footer__contact-item {
   display: flex;
