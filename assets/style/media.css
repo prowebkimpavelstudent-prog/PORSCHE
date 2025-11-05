@@ -34,6 +34,9 @@
   .content__left {
     max-width: 400px;
   }
+  .gallery__content-top {
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 768px) {
